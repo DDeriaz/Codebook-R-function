@@ -40,7 +40,7 @@ codebook(polyps, varlist=c("Participant ID",
                            "Number of Polyps at 12 Months"))
 ```
 If you run this line you should optain a result as below:
-```r
+```
 ****************************************************
 CODEBOOK
 ****************************************************
