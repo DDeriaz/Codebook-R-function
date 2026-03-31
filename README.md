@@ -81,4 +81,4 @@ Column number:  7
 Description:  Number of Polyps at 12 Months 
 Variable type: numeric
 ```
-Then, you can copy paste the console output to your text editor (ex.: Word):
+Then, you can copy paste the console output to your text editor (ex.: Word).
