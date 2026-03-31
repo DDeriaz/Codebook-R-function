@@ -27,7 +27,7 @@ codebook<-function(data, varlist){
 This code tells R what is doing the codebook function.
 ### 2) Call the codebook function following this example (adapt it to your own data)
 The first argument is the name of your dataset.
-You will need to add the description of your variable in varlist argument following the R synthax.
+You will need to add the description of your variables in varlist argument following the R synthax.
 ```r
 # Print codebook
 codebook(polyps, varlist=c("Participant ID",
